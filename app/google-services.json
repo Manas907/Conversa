@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1032620301564",
+    "project_id": "conversachatapp",
+    "storage_bucket": "conversachatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032620301564:android:845ec517bbea1a47728b79",
+        "android_client_info": {
+          "package_name": "com.example.conversachatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpwwVPM94ABUHENwivZ14kv9aP0VWoCAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
